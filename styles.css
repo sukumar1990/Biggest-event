@@ -1,0 +1,30 @@
+body{
+	height: 100%;
+	width: 100%;
+	font-family: sans-serif;
+	background: url(header.jpg) no-repeat center center fixed ;
+	background-size: cover;
+}
+h1{
+	color: #f8f9fa;
+}
+.buffer{
+	height: 100px;
+}
+button{
+	text-transform: uppercase;	
+}
+.btn-primary{
+	background-color: #de7822;
+	border-radius: 70px;
+	border: 2px solid #de7822;
+	max-width: 10rem;
+}
+.btn-primary:hover{
+	background-color: #a081ce;
+	border: 2px solid #a081ce;
+}
+hr{
+	border: 2px solid #de7822;
+	max-width: 3em;
+}
